@@ -182,7 +182,8 @@
       "github_url": "https://github.com/AMAP-ML/DreamX-World",
       "github_label": "Code",
       "github_status": "public_implementation",
-      "image": "images/publications/dreamx-world.webp"
+      "image": "images/publications/dreamx-world.webp",
+      "website_url": "https://amap-ml.github.io/DreamX_World/"
     },
     {
       "id": "imagine-agent",
@@ -422,7 +423,7 @@
       "display_year": 2019,
       "venue": "IEEE Signal Processing Letters 26(11):1613–1617",
       "paper_url": "https://ieeexplore.ieee.org/document/8831410",
-      "paper_label": "IEEE Xplore",
+      "paper_label": "PDF",
       "pdf_url": null,
       "pdf_provider": "none",
       "pdf_link_reason": "按用户要求链接至 IEEE Xplore 官方论文页；本地原始PDF仅作为裁图来源，不把详情页标为PDF直链。",
@@ -447,7 +448,7 @@
       "display_year": 2018,
       "venue": "ICME Workshops 2018",
       "paper_url": "https://ieeexplore.ieee.org/document/8551575",
-      "paper_label": "IEEE Xplore",
+      "paper_label": "PDF",
       "pdf_url": null,
       "pdf_provider": "none",
       "pdf_link_reason": "按用户要求链接至 IEEE Xplore 官方论文页；本地原始PDF仅作为裁图来源，不把详情页标为PDF直链。",
