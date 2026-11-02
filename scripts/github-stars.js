@@ -67,7 +67,7 @@
     stars.setAttribute('role', 'img');
     stars.setAttribute('aria-label', `${count.toLocaleString('en-US')} GitHub stars`);
     stars.textContent = `★ ${count.toLocaleString('en-US')}`;
-    link.after(stars);
+    link.append(stars);
   }
 
   if ('IntersectionObserver' in window) {
