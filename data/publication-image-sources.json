@@ -384,6 +384,30 @@
       "height": 440,
       "webp_bytes": 45046,
       "jpeg_bytes": 62845
+    },
+    {
+      "publication_id": "right-future",
+      "paper_url": "https://arxiv.org/abs/2609.23369",
+      "pdf_url": "https://arxiv.org/pdf/2609.23369",
+      "reader_pdf_url": "https://arxiv.org/pdf/2609.23369",
+      "source": "arxiv",
+      "source_pdf_sha256": "3b5a369c2e0835bc14b582ea715361fcd45729c2c25f9dcb8042beed75f4f848",
+      "page": 3,
+      "figure": "Figure 1",
+      "crop_normalized": [
+        0.12,
+        0.08,
+        0.88,
+        0.345
+      ],
+      "coordinate_convention": "left, top, right, bottom; normalized to full page; top-left origin",
+      "render_dpi": 180,
+      "webp": "images/publications/right-future.webp",
+      "jpeg": "images/publications/right-future.jpg",
+      "width": 720,
+      "height": 325,
+      "webp_bytes": 30692,
+      "jpeg_bytes": 50138
     }
   ]
 }

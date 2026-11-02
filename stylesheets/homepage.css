@@ -40,8 +40,11 @@ h2 { font-size: 1.5rem; line-height: 1.3; font-weight: 400; margin-bottom: 13px;
 .authors { font-size: .9375rem; line-height: 1.45; margin-bottom: 4px; }
 .venue { font-size: .9375rem; line-height: 1.45; margin-bottom: 4px; }
 .venue b { font-weight: 400; font-style: italic; }
+.award-highlight { color: #a52222; font-size: .9375rem; font-weight: 700; line-height: 1.45; margin-bottom: 4px; }
+.award-highlight a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 .links { display: flex; flex-wrap: wrap; align-items: baseline; font-size: .9375rem; line-height: 1.5; }
 .link-separator { color: var(--ink); margin: 0 7px; }
+.github-stars { color: var(--muted); font-size: .875em; margin-left: 5px; white-space: nowrap; }
 .education-entry { margin-bottom: 18px; }
 .education-line { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
 .education-line strong { font-size: 1rem; }
